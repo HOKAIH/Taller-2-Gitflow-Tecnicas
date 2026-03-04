@@ -1,4 +1,3 @@
-# Taller-2-Gitflow-Tecnicas
 
 # Taller-2-Gitflow-Tecnicas
 
